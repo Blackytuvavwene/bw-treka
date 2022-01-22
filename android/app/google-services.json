@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "458593642242",
+    "project_id": "bwtreka",
+    "storage_bucket": "bwtreka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458593642242:android:4e64a344d9db7a45b4441b",
+        "android_client_info": {
+          "package_name": "com.example.bw_treka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458593642242-rmb9s458an5gh5sr57j8776e5tru23su.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bw_treka",
+            "certificate_hash": "00cab80c880538aeb77935b89835c44b8fa6415c"
+          }
+        },
+        {
+          "client_id": "458593642242-mom2a0gpj7024u231p4njlijldr6119j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmpJETPRHTJCIkdtKWtVyIaXO3tcH5P9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458593642242-mom2a0gpj7024u231p4njlijldr6119j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
